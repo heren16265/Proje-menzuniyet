@@ -63,4 +63,4 @@ async def algila(ctx):
     else: 
         await ctx.send("resim bulunamadı.")
 
-bot.run("MTE4NTk4MTk0NTE3NjM5MTczMA.G5Yb6B.CN1ApAZ3VpVQXadjnXPnnsoxp4fY4Ab_jIGO_4")
+bot.run()
