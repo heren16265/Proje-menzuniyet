@@ -1,0 +1,8 @@
+0 ardinio uno
+1 buzzer
+2 joistick
+3 led
+4 mesafe sensoru
+5 servo motor
+6 Dcl ekran
+7 hava kalite sensoru
